@@ -28,11 +28,11 @@
   },
   "homepage": "https://github.com/OriginTrail/dkg.js/tree/master#readme",
   "dependencies": {
-    "assertion-tools": "^1.0.9",
-    "axios": "^0.27.2",
-    "dkg-evm-module": "^1.0.2",
+    "assertion-tools": "^1.1.0",
+    "axios": "^1.1.2",
+    "dkg-evm-module": "^1.0.5",
     "jsonld": "^8.1.0",
-    "web3": "^1.7.3"
+    "web3": "^1.8.0"
   },
   "devDependencies": {
     "assert": "^2.0.0",
